@@ -1,0 +1,3 @@
+dataBase: vueshop;
+user: shopadmin;
+pwd: 123456;
